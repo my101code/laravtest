@@ -8,6 +8,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 class=" font-bold text-center">Hola mundo</h1>
+    <h1 class=" font-bold text-center">Hola mundo modificado </h1>
+    <p>corregido el error</p>
 </body>
 </html>
