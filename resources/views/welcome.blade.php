@@ -9,6 +9,6 @@
 </head>
 <body>
     <h1 class=" font-bold text-center">Hola mundo modificado </h1>
-    <p>corregido el error</p>
+    <p>corregido el error con exito-- ok</p>
 </body>
 </html>
