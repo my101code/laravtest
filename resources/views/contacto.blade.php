@@ -1,5 +1,5 @@
 <?php  
-$namePage= 'Welcome';
+$namePage= 'Contact';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,6 +12,6 @@ $namePage= 'Welcome';
 </head>
 <body>
     <h1 class=" font-bold text-center"><?= $namePage ?> page </h1>
-    <p>corregido</p>
+    <p>corregido el error con exito-- ok</p>
 </body>
 </html>
