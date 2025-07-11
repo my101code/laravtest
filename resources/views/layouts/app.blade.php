@@ -9,8 +9,8 @@
     <title>@yield('titlePage')</title>
     @vite(['resources/css/app.css', 'resources/js/app.js'])
 </head>
-<body>
-    <ul>
+<body class="p-2">
+    <ul class=" flex space-x-2">
         <li><a href="<?= $url ?>">Home</a></li>
         <li><a href="<?= $url ?>/contacto">Contacto</a></li>
         <li><a href="<?= $url ?>/tienda">Tienda</a></li>
