@@ -1,5 +1,5 @@
 @extends('layouts.app')
 
 @section('titlePage')
-    Welcome
+    Tienda
 @endsection
